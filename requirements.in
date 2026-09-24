@@ -1,0 +1,4 @@
+sqlalchemy
+alembic
+playwright
+jinja2

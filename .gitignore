@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### AL ###
 #Template for AL projects for Dynamics 365 Business Central
 #launch.json folder
@@ -21,3 +22,44 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+=======
+# Python
+__pycache:__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.env
+.venv/
+venv/
+pip-wheel-metadata/
+
+# Data (CRITICAL - never commit personal info)
+data/*.db
+data/*.json
+data/*.csv
+credentials/
+*.key
+*.pem
+
+# Generated outputs
+dist/
+build/
+*.pdf
+*.html
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Windows temp files
+*.tmp
+Temp*
+>>>>>>> 0dc381f (simply-colebear: 09/25/2026 - Upload of initial configuration for PA Weekly Work Search Tracker Utility. Included requirements.txt file to install dependencies for project)
