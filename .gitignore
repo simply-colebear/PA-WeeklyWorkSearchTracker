@@ -32,6 +32,7 @@ __pycache:__/
 .venv/
 venv/
 pip-wheel-metadata/
+requirements.in
 
 # Data (CRITICAL - never commit personal info)
 data/*.db

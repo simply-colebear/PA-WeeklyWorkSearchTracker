@@ -1,0 +1,15 @@
+{
+	"matching_thresholds": {
+		"auto_match:" 85,
+		"review_recommended": 70,
+		"manual_required": 69
+	},
+	"common_variations": [
+		{"canonical": "Erie Insurance", "variations": ["Erie Insurance Group", "Erie Indemity", "Erie Insurance Company"]}
+	],
+	"industry_patterns": {
+		"insurance": ["insurance", "indemnity", "claims", "underwriting", "agency"],
+		"technology": ["software", "systems", "digital"],
+	       "restaurant": ["burger", "sub", "dining", "eats", "restaurant"]	
+	}
+}

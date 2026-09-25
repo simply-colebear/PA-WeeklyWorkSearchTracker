@@ -29,3 +29,5 @@ typing-extensions==4.16.0
     #   alembic
     #   pyee
     #   sqlalchemy
+tzdata==2026.4
+    # via -r requirements.in
